@@ -1,0 +1,31 @@
+.box--top-center {
+  position: relative;
+  top: -80px;
+  right: -200px;
+}
+.box--top-right {
+  position: relative;
+  top: -160px;
+  right: -420px;
+}
+
+.box--center {
+  position: relative;
+
+  right: -200px;
+}
+.box--bottom-left {
+  position: relative;
+  bottom: -200px;
+  left: 0px;
+}
+.box--bottom-center {
+  position: relative;
+  bottom: -120px;
+  right: -200px;
+}
+.box--bottom-right {
+  position: relative;
+  bottom: -40px;
+  right: -420px;
+}
